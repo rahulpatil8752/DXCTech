@@ -7,5 +7,7 @@ public class JavaSeleGitPrac {
 		System.out.println("Hello Sumit!! How are You??");
 		
 		System.out.println("Enjoy your weekends Bro");
+		
+		System.out.println("Enjoy your lunch");
 	}
 }
